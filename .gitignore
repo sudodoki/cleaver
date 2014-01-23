@@ -1,4 +1,6 @@
 node_modules/
 test_slides/
+!index.html
 *.html
+
 .DS_Store
